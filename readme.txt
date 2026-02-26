@@ -1,7 +1,7 @@
 IndustrialAI Crack Classification – Submission
 
 Candidate: Yuvraj Singh
-Assignment: IndustrialAI Crack Classification – DeltaX
+IndustrialAI Crack Classification 
 
 1. Overview
 
@@ -139,5 +139,6 @@ The model was fully fine-tuned.
 Data augmentation was applied during training only.
 
 Validation was performed without augmentation to ensure fair evaluation.
+
 
 End of README
