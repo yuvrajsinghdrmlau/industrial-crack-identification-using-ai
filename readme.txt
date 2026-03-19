@@ -2,7 +2,7 @@ IndustrialAI Crack Classification – Submission
 
 Candidate: Yuvraj Singh
 IndustrialAI Crack Classification 
-
+ 
 1. Overview
 
 This submission contains a deep learning-based binary classification system for detecting cracks on stamped industrial metal surfaces.
