@@ -9,7 +9,7 @@ This submission contains a deep learning-based binary classification system for 
 
 The model is implemented using PyTorch and leverages transfer learning with EfficientNet-B0 pretrained on ImageNet.
 
-The objective is to classify image patches into:
+The objective is to classify image patches into:-
 
 Defect (Crack)
 
