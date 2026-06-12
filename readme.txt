@@ -1,4 +1,4 @@
-IndustrialAI Crack Classification – Submission
+Industrial AI Crack Classification – Submission
 
 Candidate: Yuvraj Singh
 IndustrialAI Crack Classification 
