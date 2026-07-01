@@ -16,7 +16,6 @@ Defect (Crack)
 No Defect (Non-Crack)
 
 2. Contents of Submission
-
 This zip file contains:
 
 report.pdf
