@@ -6,7 +6,7 @@ Industrial  AI Crack Classification
 1. Overview
 
 This submission contains a deep learning-based binary classification system for detecting cracks on stamped industrial metal surfaces.
-
+                    
 The model is implemented using PyTorch and leverages transfer learning with EfficientNet-B0 pretrained on ImageNet.
 
 The objective is to classify image patches into:-
