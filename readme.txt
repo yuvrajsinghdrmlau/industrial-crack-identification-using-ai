@@ -28,7 +28,7 @@ crack_detection_submission.ipynb → Complete reproducible training and evaluati
 
 best_model.pth → Trained model weights
 
-README.txt → Usage instructions
+README.txt → Usag e instructions
 
 3. Environment Requirements
 
