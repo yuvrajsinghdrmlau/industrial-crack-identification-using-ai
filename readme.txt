@@ -14,8 +14,6 @@ The objective is to classify image patches into:-
 Defect (Crack)
 
 No Defect (Non-Crack)
-
-
 2. Contents of Submission
 This zip file contains:
 
